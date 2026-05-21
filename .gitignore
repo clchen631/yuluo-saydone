@@ -1,0 +1,14 @@
+build/
+.dart_tool/
+_sherpa_temp/
+releases/
+assets/models/
+.flutter-plugins
+.flutter-plugins-dependencies
+android/.gradle/
+android/.kotlin/
+android/app/build/
+android/local.properties
+*.pyc
+__pycache__/
+.metadata
